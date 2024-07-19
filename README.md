@@ -23,6 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a Microservice on Amazon ECS using ECR with GitHub Actions CI/CD](https://medium.com/red-buffer/deploying-a-microservice-on-amazon-ecs-using-ecr-with-github-actions-ci-cd-f36971f0fe59?source=rss-4f09ee2afc9f------2)
+- [Become an Excel Whiz with These 15 Easy to Learn Tips and Tricks](https://medium.com/red-buffer/become-an-excel-whiz-with-these-15-easy-to-learn-tips-and-tricks-a4c3b92dd6e4?source=rss-4f09ee2afc9f------2)
+- [Deploying Node.js API on Google Cloud Function using GitLab CI: A Technical Guide](https://medium.com/red-buffer/deploying-node-js-api-on-google-cloud-function-using-gitlab-ci-a-technical-guide-4816a8cbc9b8?source=rss-4f09ee2afc9f------2)
+- [ReactJs Vs NextJs](https://medium.com/@faizanshah1496/reactjs-vs-nextjs-ec64320bb88?source=rss-4f09ee2afc9f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
