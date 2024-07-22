@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Opensource**
 
-- 📝 I regularly write articles on [https://medium.com/@faizanshah1496](https://medium.com/@faizanshah1496)
+- 📝 I regularly write articles on [Medium](https://medium.com/@faizanshah1496)
 
 - 💬 Ask me about **SQL, Postgerss**
 
 - 📫 How to reach me **faizanshah1496@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/faizan96/](https://www.linkedin.com/in/faizan96/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/faizan96/)
 
 - ⚡ Fun fact **I am 1/4 in my country**
 
