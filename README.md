@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanshah14&label=Profile%20views&color=0e75b6&style=flat" alt="faizanshah14" /> </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanshah14&" alt="faizanshah14" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizanshah14&show_icons=true&locale=en&theme=Gradient" alt="faizanshah14" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanshah14&theme=radical&no-frame=true" alt="faizanshah14" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizanshah14&show_icons=true&locale=en&theme=radical&no-frame=true" alt="faizanshah14" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizanshah14&theme=dracula&no-frame=true&row=1" alt="faizanshah14" /></a> </p>
