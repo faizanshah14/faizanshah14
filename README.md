@@ -2,8 +2,7 @@
 <h3 align="center">Google Certified Professional and a full-stack engineer with 5+ years of success in leading tech teams as well as designing, developing, and optimizing applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanshah14&label=Profile%20views&color=0e75b6&style=flat" alt="faizanshah14" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=faizanshah14)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizanshah14&theme=dracula" alt="faizanshah14" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizanshah14&theme=dracula&no-frame=true" alt="faizanshah14" /></a> </p>
 
 - 🔭 I’m currently working on [Impulse](https://www.disperse.io/solution)
 
